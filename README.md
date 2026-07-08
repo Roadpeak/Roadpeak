@@ -1,38 +1,58 @@
-# Hi there, I'm Roadpeak! 👋
-
-Welcome to my GitHub profile! Here's a little bit about me:
-
-## 🚀 About Me
-I'm a passionate developer who loves to explore new technologies and build innovative solutions. I enjoy working on open-source projects and collaborating with the community.
-
-## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, TypeScript, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Express, Django, Spring Boot
-- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code, IntelliJ IDEA
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
-
-## 🌱 Currently Learning
-- Advanced concepts in machine learning and AI
-- Cloud computing with AWS and Azure
-- Rust programming language
-
-## 👯 Looking to Collaborate On
-- Open-source projects related to web development
-- Machine learning and data science projects
-- DevOps and CI/CD pipeline setups
-
-## 📫 How to Reach Me
-- **Email:** roadpeak@example.com
-- **LinkedIn:** [linkedin.com/in/roadpeak](https://www.linkedin.com/in/roadpeak)
-- **Twitter:** [@roadpeak_dev](https://twitter.com/roadpeak_dev)
-
-## 📈 GitHub Stats
-![Roadpeak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roadpeak&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roadpeak&layout=compact&theme=radical)
-
-## 💬 Let's Chat
-Feel free to reach out if you want to discuss technology, collaborate on a project, or just say hi!
-
-Thanks for stopping by! Have a great day! 😊
+# Hi there, I'm Roadpeak! 👋                                                                                                                                                                                       
+                                                                                                                                                                                                                   
+  Welcome to my GitHub profile! Here's a little bit about me:                                                                                                                                                        
+                                                                                                                                                                                                                     
+  ## 🚀 About Me                                                                                                                                                                                                     
+  I'm a full-stack engineer and technical founder based in Kenya, building production-grade platforms across fintech, identity, social, and real estate. I obsess over system architecture, security, and shipping 
+  things that actually work at scale. Lately I've been going deep on AI/ML integration — embedding intelligence directly into the products I build.                                                                  
+   
+  ## 🛠️  Technologies & Tools                                                                                                                                                                                         
+  - **Languages:** TypeScript, JavaScript, Dart, Python                                                                                                                                                            
+  - **Frameworks/Libraries:** NestJS, Flutter, React, Fastify, Riverpod, LangChain
+  - **AI/ML:** OpenAI API, Claude API (Anthropic), vector databases, RAG pipelines, ML model integration                                                                                                             
+  - **Tools:** Docker, Kubernetes, ArgoCD, Helm, GitHub Actions, Kafka, Nx monorepo                                                                                                                                  
+  - **Databases:** PostgreSQL, Redis, TypeORM, Prisma, pgvector                                                                                                                                                      
+  - **Auth & Security:** JWT (RS256), WebAuthn/Passkeys, Argon2, OAuth2, RBAC, AES-256-GCM                                                                                                                           
+  - **Cloud & DevOps:** AWS (S3, RDS), GHCR, self-hosted runners, Grafana, OpenTelemetry                                                                                                                             
+                                                                                                                                                                                                                     
+  ## 🔨 What I Build                                                                                                                                                                                                 
+  - **Identity & Auth systems** — multi-tenant, trust-tiered, passkey-enabled, IPRS-integrated                                                                                                                       
+  - **AI-powered features** — intelligent agents, semantic search, LLM-backed automation built into real products                                                                                                  
+  - **Fintech platforms** — M-Pesa payments, KES pools, parimutuel markets, wallet services                                                                                                                          
+  - **Mobile apps** — Flutter with Riverpod, offline-first, deep-linked, biometric auth                                                                                                                              
+  - **Social super-apps** — personas, reputation systems, content feeds, real-time messaging                                                                                                                         
+  - **ERP & SaaS platforms** — multi-role, multi-tenant, microservice architectures                                                                                                                                  
+                                                                                                                                                                                                                     
+  ## 🌱 Currently Building
+  - Wasaa — an identity-first social super-app with AI-driven content and trust scoring (NestJS + Flutter + Kafka + Kubernetes)                                                                                      
+  - Raveon — a nightlife super-app on an Nx microservices monorepo                                                                                                                                                   
+  - PredictMarket Kenya — a Polymarket-style prediction market with M-Pesa                                                                                                                                           
+  - HomVR — immersive PropTech with VR/3D tours, digital twins, and AI property matching                                                                                                                             
+                                                                                                                                                                                                                     
+  ## 🤖 AI & ML Interests                                                                                                                                                                                          
+  - LLM integration and prompt engineering for production apps                                                                                                                                                       
+  - RAG (Retrieval-Augmented Generation) for domain-specific knowledge                                                                                                                                               
+  - Liveness detection and computer vision for identity verification                                                                                                                                                 
+  - AI agents and autonomous workflow automation                                                                                                                                                                     
+  - On-device ML for mobile (Flutter + TensorFlow Lite)                                                                                                                                                              
+                                                                                                                                                                                                                     
+  ## 👯 Looking to Collaborate On                                                                                                                                                                                    
+  - AI-powered developer tooling and platform infrastructure                                                                                                                                                         
+  - Open-source identity and auth systems for African markets                                                                                                                                                        
+  - Fintech and AI projects targeting East Africa
+                                                                                                                                                                                                                     
+  ## 📫 How to Reach Me                                                                                                                                                                                            
+  - **Email:** roadpeak@example.com
+  - **LinkedIn:** ![linkedin](https://ke.linkedin.com/in/david-bismark-049a0819b)                                                                                                                                 
+ 
+                                                                                                                                                                                                                     
+  ## 📈 GitHub Stats                                                                                                                                                                                               
+  ![Roadpeak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roadpeak&show_icons=true&theme=radical)                                                                                             
+                                                                                                                                                                                                                   
+  ## 🏆 Top Languages                                                                                                                                                                                                
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roadpeak&layout=compact&theme=radical)
+                                                                                                                                                                                                                     
+  ## 💬 Let's Chat                                                                                                                                                                                                 
+  Feel free to reach out if you want to discuss system architecture, AI integration, collaborate on a project, or build something for the African market.
+                                                                                                                                                                                                                     
+  Thanks for stopping by!
