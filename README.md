@@ -1,4 +1,4 @@
-# Hi there, I'm Roadpeak! 👋                                                                                                                                                                                       
+# Hi there, I'm Roadpeak!(David) 👋                                                                                                                                                                                       
                                                                                                                                                                                                                    
   Welcome to my GitHub profile! Here's a little bit about me:                                                                                                                                                        
                                                                                                                                                                                                                      
@@ -42,7 +42,7 @@
   - Fintech and AI projects targeting East Africa
                                                                                                                                                                                                                      
   ## 📫 How to Reach Me                                                                                                                                                                                            
-  - **Email:** roadpeak@example.com
+  - **Email:** davidbismark16@gmail.com
   - **LinkedIn:** ![linkedin](https://ke.linkedin.com/in/david-bismark-049a0819b)                                                                                                                                 
  
                                                                                                                                                                                                                      
@@ -50,7 +50,17 @@
   ![Roadpeak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roadpeak&show_icons=true&theme=radical)                                                                                             
                                                                                                                                                                                                                    
   ## 🏆 Top Languages                                                                                                                                                                                                
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roadpeak&layout=compact&theme=radical)
+                                                                                                                                                                                                                     
+  | Language | Usage |                                                                                                                                                                                               
+  |----------|-------|                                                                                                                                                                                             
+  | TypeScript | Backend (NestJS) & primary language across all projects |                                                                                                                                           
+  | Dart | Flutter mobile apps |                                                                                                                                                                                     
+  | Python | AI/ML pipelines, scripting, DevOps automation |
+  | JavaScript | Frontend (React), tooling |                                                                                                                                                                         
+  | SQL | PostgreSQL — migrations, raw queries, performance tuning |                                                                                                                                               
+  | YAML | Kubernetes manifests, Helm charts, GitHub Actions CI/CD |                                                                                                                                                 
+  | Bash | Shell scripting, Docker entrypoints, runner scripts |                                                                                                                                                                                                  
+  
                                                                                                                                                                                                                      
   ## 💬 Let's Chat                                                                                                                                                                                                 
   Feel free to reach out if you want to discuss system architecture, AI integration, collaborate on a project, or build something for the African market.
